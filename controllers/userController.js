@@ -89,3 +89,6 @@ module.exports.register= async (req,res,next) => {
 
 
     };
+
+
+//login form functionality
